@@ -11,3 +11,7 @@ wheels/
 
 .env
 *.pdf
+
+documents/
+
+income_tax_collection/
